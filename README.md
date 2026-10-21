@@ -1,12 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe0053,100:006fed&height=200&section=header&text=Leonardo%20Decanini&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Cofundador%20de%20MoveUp%20Digital&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Leonardo Decanini" />
-
+<h1 align="center">Hola, soy Leo 👋</h1>
 <p align="center">
-  <a href="https://moveup.digital">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FE0053&center=true&vCenter=true&width=520&lines=Desarrollador+full+stack;Cofundador+de+MoveUp+Digital;Sistemas+a+medida;Soluciones+con+IA;Herramientas+para+agencias" alt="Desarrollador full stack, cofundador de MoveUp Digital" />
-  </a>
+  <b>Desarrollador full stack · Cofundador de <a href="https://moveup.digital">MoveUp Digital</a></b><br>
+  Buenos Aires, Argentina
 </p>
-
-<p align="center">Buenos Aires, Argentina</p>
 
 ---
 
@@ -49,5 +45,3 @@ En [MoveUp Digital](https://moveup.digital) desarrollo productos de punta a punt
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leodeca04/)
 
 > ¿Tenés un proyecto en mente? Escribime por LinkedIn o desde la web.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006fed,100:fe0053&height=100&section=footer" width="100%" alt="" />
