@@ -42,14 +42,6 @@ En [MoveUp Digital](https://moveup.digital) desarrollo productos de punta a punt
 - **IA:** Claude, Gemini, bots y asistentes conectados a datos propios
 - **E-commerce:** WooCommerce y WordPress, Mercado Pago
 
-### Mi actividad
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoDecanini/LeoDecanini/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoDecanini/LeoDecanini/output/snake.svg" />
-  <img alt="Víbora comiéndose mi gráfico de contribuciones" src="https://raw.githubusercontent.com/LeoDecanini/LeoDecanini/output/snake.svg" />
-</picture>
-
 ### Contacto
 
 [![MoveUp Digital](https://img.shields.io/badge/moveup.digital-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moveup.digital)
