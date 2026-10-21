@@ -7,7 +7,7 @@
 ---
 
 Construyo sistemas a medida, soluciones con IA y herramientas para agencias.
-En [MoveUp Digital](https://moveup.digital) desarrollo productos de punta a punta : la web, el panel de administración, la API y la app del celular.
+En [MoveUp Digital](https://moveup.digital) desarrollo productos de punta a punta: la web, el panel de administración, la API y la app del celular.
 
 ### Inteligencia artificial
 
